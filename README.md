@@ -5,3 +5,4 @@ Important Commands:
 
 Imports:
 - pip install opencv-python
+- pip install spacy
