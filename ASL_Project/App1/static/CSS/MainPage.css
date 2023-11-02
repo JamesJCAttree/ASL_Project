@@ -1,0 +1,56 @@
+body {
+}
+
+/* CSS for the card */
+.card {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 2%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    text-align: center;
+}
+
+/* CSS for the webcam footage*/
+#webcam {
+    width: 100%;
+    height: auto;
+}
+
+/* CSS for the transcription container */
+.Transcription-container {
+    width: 50%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+/* CSS for centering the "Transcription" heading */
+.center-heading {
+    text-align: center;
+}
+
+/* CSS for the clear button container */
+.ClearButton-container {
+    margin-top: 10px;
+    margin-left: 25%;
+    margin-right: 70%;
+}
+
+/* CSS for the record button container */
+.RecordButton-container {
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* CSS for the dictate button container */
+.DictateButton-container {
+    margin-top: 10px;
+    text-align: center;
+}
