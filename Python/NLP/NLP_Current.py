@@ -12,7 +12,7 @@ sentenceData = []
 aSLSentences = []
 englishSentences = []
 questionMark = ""
-inputText = "you age"
+inputText = "you age" # This is the import from James King
 
 # Creates list of data to be used from the text files
 with open('Source\\NLP_Data\\NLP_Question_Data.txt', 'r') as file:
