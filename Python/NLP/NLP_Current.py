@@ -12,7 +12,7 @@ sentenceData = []
 aSLSentences = []
 englishSentences = []
 questionMark = ""
-inputText = "you age" # This is the import from James King
+inputText = "you name you" # This is the import from James King
 
 # Creates list of data to be used from the text files
 with open('Source\\NLP_Data\\NLP_Question_Data.txt', 'r') as file:
@@ -35,6 +35,57 @@ with open('Source\\NLP_Data\\NLP_Sentence_English.txt', 'r') as file:
 class Category:
     Question = "Question"
     Statement = "Statement"
+
+def get_word_category(word, word_categories):
+    for category, words in word_categories.items():
+        if word in words:
+            return category
+    return None  # Return None if the word is not found in any category
+
+word_categories = {
+    'pronouns': {
+        'i': 'prn',
+        'you' : 'prn' 
+        },
+    'nouns': {
+        'student' : 'noun',
+        'teacher' : 'noun',
+        'book' : 'noun',
+        'people' : 'noun',
+        'person' : 'noun',
+        'icecream' : 'noun',
+        'spaghetti' : 'noun'
+        },
+    'verbs': {
+        'read' : 'verb',
+        'borrow' : 'verb',
+        'see' : 'verb',
+        'help' : 'verb',
+        'run' : 'verb',
+        'jump' : 'verb',
+        'eat' : 'verb'
+        },
+    'time': {
+        'yesterday',
+        'tomorrow',
+        'last week',
+        'next week',
+        'last year',
+        'next year'
+        }
+}
+
+brokenUpInputText = inputText.split()
+changedText = []
+
+for i in range(len(brokenUpInputText)):
+    category = get_word_category(brokenUpInputText[i], word_categories)
+    if category:
+        changedText.append(category)
+    else:
+        changedText.append(brokenUpInputText[i])
+
+print(f"Test changes: {changedText}")
 
 sentenceData = [Category.Question if line.startswith("Q") else Category.Statement for line in sentenceData]
 

@@ -1,9 +1,11 @@
 you name
+you age
 deaf you
 student you
-you teacher name huh
+your teacher name huh
 how you feel
 yesterday you shower
+thirsty you
 hungry you
 learn sign language you
 you parents deaf
@@ -47,4 +49,82 @@ tomorrow library I go book new borrow
 yes
 no
 me excited
+me ready
 cookie I like
+I love learn ASL you
+Work where you
+Weekend you do what
+Future you want what
+Your family how many people
+Sign language you prefer which
+Yesterday what you do
+deaf event you go
+you like it you
+School you like study
+Your birthday when
+Travel you like where
+Holiday favourite you
+Season favourite you
+Why you learn ASL
+Tomorrow plans you have
+Coffee you like drink
+Green tea you like drink
+Pet you have
+Summer favorite season you
+ASL class you enjoy
+Your job what you do
+Color your favorite what
+Last weekend you do what
+Future goals you have what
+Holiday season you like
+Family event recent you attend
+Winter summer prefer you which
+Your friends many how
+Last night you sleep well
+Vacation dream destination your
+Your town you like
+ASL fluent you become want
+Workplace atmosphere you like
+Cook you like
+Food you like you
+Sports watch you enjoy
+Artistic talent you possess what
+Your favorite music genre what
+Your morning routine what
+Your dream job what
+Recent movie you watch enjoy
+Your closest friend who
+Last vacation destination your
+Your birthday party plan what
+Your school major what
+Your talents what
+Yesterday weather how
+Your favorite book what
+Your pet peeves what
+ASL class you take why
+Your weekend plans what
+Your daily routine describe
+Your favorite subject what
+Your childhood dream what
+Technology you use daily what
+Your perfect day describe
+Your comfort food what
+Your role model who
+Your favorite season what
+Your daily exercise routine what
+Your dream car what
+Your opinion politics what
+Your favorite animal what
+Your happy place where
+Your perfect weekend what
+Your favorite TV show what
+Your favorite hobby what
+Your feelings today how
+Your dream home describe
+Your weekly shopping list what
+Your favorite clothing style what
+Your dream vacation where
+Your perfect meal what
+Your workout routine what
+Your favorite music artist who
+Your favorite memory what

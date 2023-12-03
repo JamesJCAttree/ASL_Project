@@ -1,9 +1,11 @@
 what is your name
+what is your age
 are you deaf
 are you a student
 what is your teacher's name
 how do you feel
 did you shower yesterday
+are you thirsty
 are you hungry
 did you learn sign language
 are your parents deaf
@@ -47,4 +49,82 @@ I will go to the library tomorrow and borrow a new book
 yes
 no
 I am excited
-what is your age
+I am ready
+I like cookies
+I Love to learn ASL do you 
+Where do you work
+What do you do on the weekend
+What do you want to do in the future
+How many people are in your family
+Which sign language do you prefer
+What did you do yesterday
+Are you going to the deaf event
+do you like it
+Do you like to study for School
+When is your birthday
+Where do you like to travel
+Whats your favorite holiday
+Whats your favorite season
+Why do you want to learn ASL
+Do you have plans tomorrow
+Do you like to drink coffee
+Do you like to drink green tea
+Do you have a pet
+Is summer your favorite season
+Do you enjoy ASL class
+What is your job
+What is your favorite color
+What did you do last weekend
+What are your future goals
+Do like the holiday season
+What family event did you recently attend
+Do you prefer winter or summer
+How many friends do you have
+Did you sleep well last night
+What is your dream vacation destination
+Do you like your town
+Do you want to become fluent in ASL
+Do you like your workplace atmosphere
+Do you like to cook
+What food do you like
+Do you enjoy watching sports
+Do you possess any artistic talent
+What is your favorite genre of music
+What is your morning routine
+What is your dream job
+What movie did you watch that you enjoyed
+Who is your closest friend
+Where was your last vacation destination
+What is the plan for your birthday party
+What is your major at school
+What are your talents
+How was the weather yesterday
+What is your favorite book
+What are your pet peeves
+Why do you take an ASL class
+What are your plans for this weekend
+Describe your daily routine
+What is your favorite subject
+What is your childhood dream
+What technology do you use daily
+Describe your perfect day
+What is your comfort food
+Who is your role model
+What is your favorite season
+What is your daily exercise routine
+What is your dream car
+What is your opinion on politics
+What is your favorite animal
+Where is your happy place
+What is your perfect weekend
+What is your favorite TV show
+What is your favorite hobby
+How are you feeling today
+Describe your dream home
+What is your weekly shopping list
+What is your favorite clothing style
+Where is your dream vacation
+What is your perfect meal
+What is your workout routine
+Who is your favorite music artist
+What is your favorite memory
