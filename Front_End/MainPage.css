@@ -1,0 +1,79 @@
+/* CSS for the body element */
+body
+{
+    background-color: #2D5873;
+}
+
+/* CSS for the card */
+.card {
+    background-color: #7BA696;
+    width: 400px;
+    margin-right: 0 auto ;
+    margin-left: 20px;
+    margin-top:2%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    text-align: center; 
+}
+
+/* CSS for the webcam footage*/
+#webcam {
+    width: 100%; 
+    height: auto; 
+}
+
+/* CSS for the transcription container */
+.container {
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 35%;
+    margin-bottom: 50px;
+    margin-right: auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+/* CSS for adjusting the position of the heading */
+h2 {
+    text-align: center;
+    margin-top: -22%;
+    margin-right: 20%;
+    color: white;
+}
+
+
+
+/* CSS for the clear button container */
+.ClearButton-container {
+    margin-top: 10px;
+    margin-left: 35%;
+    margin-right: 90%;
+}
+
+/* CSS for the record button container */
+.RecordButton-container {
+    margin-top:10px;
+    margin-right: auto;
+    margin-left: 2%;
+    text-align: left;
+}
+
+/* CSS for the cancel button container */
+.CancelButton-container {
+    margin-top:10px;
+    margin-right: auto;
+    margin-left: 6%;
+    text-align: left;
+}
+
+
+/* CSS for the dictate button container */
+.DictateButton-container {
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left: 36%;
+}
